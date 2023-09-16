@@ -18,10 +18,10 @@ The **European Galaxy Days** will be held from the 4th to 6th October 2023 in Fr
 | 10:30 - 11:15 |   | *Coffee Break* |   |
 | 11:15 - 13:00 |   | **EGD community presentations II** |   |
 |               | Beatriz Serrano-Solano | Roadmap for FAIR Image Data Workflows in Galaxy | 20' |
+|               | Lucille Delisle | Using galaxy to interact with OMERO for image analysis | 10' |
 |               | Anthony Bretaudeau | Galaxy Genome Annotation: Galaxy as a platform for the annotation of genomes | 10' |
 |               | Paul Zierep | Microbial data analysis using Galaxy in 2023 - tools, workflows, training and community | 15' |
 |               | Marie Jossé | Galaxy visualise, analyse and process environmental data on-demand | 20' |
-|               | TBC | TBC | 20' |
 |               | TBC | TBC | 20' |
 | 13:00 - 14:30 |   | *Lunch Break*  |  |
 | 14:30 - 16:00 |   | **ELIXIR-Galaxy Community meeting**  |   |
